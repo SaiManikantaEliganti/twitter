@@ -1,0 +1,10 @@
+POST http://localhost:2000/register/
+
+###
+POST http://localhost:2000/login/
+
+Content-Type: application/json
+{
+  "username":"JoeBiden",
+  "password":"biden@123"
+}
